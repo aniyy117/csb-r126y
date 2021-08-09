@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://aniyy117.github.io/csb-r126y/static/css/main.2c8275dd.chunk.css",
+    "main.js": "https://aniyy117.github.io/csb-r126y/static/js/main.53be34cd.chunk.js",
+    "main.js.map": "https://aniyy117.github.io/csb-r126y/static/js/main.53be34cd.chunk.js.map",
+    "runtime-main.js": "https://aniyy117.github.io/csb-r126y/static/js/runtime-main.d2b72de1.js",
+    "runtime-main.js.map": "https://aniyy117.github.io/csb-r126y/static/js/runtime-main.d2b72de1.js.map",
+    "static/js/2.3c3bf058.chunk.js": "https://aniyy117.github.io/csb-r126y/static/js/2.3c3bf058.chunk.js",
+    "static/js/2.3c3bf058.chunk.js.map": "https://aniyy117.github.io/csb-r126y/static/js/2.3c3bf058.chunk.js.map",
+    "index.html": "https://aniyy117.github.io/csb-r126y/index.html",
+    "static/css/main.2c8275dd.chunk.css.map": "https://aniyy117.github.io/csb-r126y/static/css/main.2c8275dd.chunk.css.map",
+    "static/js/2.3c3bf058.chunk.js.LICENSE.txt": "https://aniyy117.github.io/csb-r126y/static/js/2.3c3bf058.chunk.js.LICENSE.txt",
+    "static/media/Pexels.22acab75.mp4": "https://aniyy117.github.io/csb-r126y/static/media/Pexels.22acab75.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2b72de1.js",
+    "static/js/2.3c3bf058.chunk.js",
+    "static/css/main.2c8275dd.chunk.css",
+    "static/js/main.53be34cd.chunk.js"
+  ]
+}
